@@ -37,6 +37,6 @@ The pipeline loads data from **Google Cloud Storage (GCS)** into **BigQuery**, t
 ### Airflow Pipeline
 <img width="1894" height="1450" alt="load_and_transform_view-graph" src="https://github.com/user-attachments/assets/434fe7bf-fbd9-4589-a4c6-f6af11820de0" />
 
-### Sample Looker Studio Report
+### Sample Looker Studio Report - USA Health Data
 <img width="900" height="900" alt="USA_Health_Data" src="https://github.com/user-attachments/assets/f3bc764c-d196-4142-8bdc-16efbf2e6453" />
 
